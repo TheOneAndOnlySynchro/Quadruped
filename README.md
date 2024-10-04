@@ -4,3 +4,6 @@ The system consists of two main components: a graphical user interface (GUI) run
 
 The system should allow users to control the robot's servos, save and load robot states, and communicate between the PC and the Pico.
 
+
+WORK IN PROGRESS
+
