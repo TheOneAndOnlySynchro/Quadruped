@@ -6,6 +6,10 @@ The system should allow users to control the robot's servos, save and load state
 
 The Quadruped consists of a total of 8 Servos, 4 of them control the hip and the other 4 control the legs of the Quadruped.
 
+Modules used for the Project:
 
-
+tkinter: https://pypi.org/project/threadsafe-tkinter/
+json: https://pypi.org/project/jsonlib/
+pyserial: https://pypi.org/project/pyserial/
+time: https://pypi.org/project/TIME-python/
 
