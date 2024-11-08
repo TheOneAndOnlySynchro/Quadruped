@@ -13,3 +13,4 @@ json: https://pypi.org/project/jsonlib/
 pyserial: https://pypi.org/project/pyserial/
 time: https://pypi.org/project/TIME-python/
 
+Developers Note: In the GUI Program, change the port to where your pico is connected.
